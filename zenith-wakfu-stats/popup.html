@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zenith Wakfu Stats Calculator</title>
+  <meta name="author" content="Pevalcar">
+  <meta name="copyright" content="Copyright (c) 2025 Pevalcar">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <img src="icon.png" alt="Icon" class="logo">
+      <h1>Zenith Wakfu<br><span class="subtitle">Stats Calculator</span></h1>
+    </div>
+
+    <!-- Language Selector -->
+    <div class="language-selector">
+      <label for="languageSelect">🌐 <span data-i18n="languageLabel">Idioma / Language / Langue</span>:</label>
+      <select id="languageSelect" class="lang-select">
+        <option value="es">🇪🇸 Español</option>
+        <option value="en">🇬🇧 English</option>
+        <option value="fr">🇫🇷 Français</option>
+      </select>
+    </div>
+    
+    <div class="info-section">
+      <h2 data-i18n="whatDoesTitle">📊 ¿Qué hace esta extensión?</h2>
+      <p data-i18n="whatDoesText">Calcula automáticamente las estadísticas de <strong>Dominio</strong> y <strong>Resistencia</strong> en las tarjetas de equipamiento de Zenith Wakfu Builder.</p>
+      
+      <div class="feature-list">
+        <div class="feature">
+          <span class="icon">✅</span>
+          <span data-i18n="feature1">Suma automática de dominios positivos</span>
+        </div>
+        <div class="feature">
+          <span class="icon">⚠️</span>
+          <span data-i18n="feature2">Detección de dominios negativos</span>
+        </div>
+        <div class="feature">
+          <span class="icon">🔢</span>
+          <span data-i18n="feature3">Cálculo de total neto</span>
+        </div>
+        <div class="feature">
+          <span class="icon">🛡️</span>
+          <span data-i18n="feature4">Misma funcionalidad para resistencias</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="instructions">
+      <h2 data-i18n="howToUseTitle">📝 Cómo usar</h2>
+      <ol>
+        <li data-i18n="step1">Visita <a href="https://www.zenithwakfu.com/builder" target="_blank">zenithwakfu.com/builder</a></li>
+        <li data-i18n="step2">Navega por los equipamientos</li>
+        <li data-i18n="step3">Las tablas de estadísticas aparecerán automáticamente</li>
+      </ol>
+    </div>
+
+    <div class="footer">
+      <a href="mailto:geoememsoluciones@gmail.com" class="support-btn" id="supportBtn">
+        <span class="btn-icon">📧</span>
+        <span data-i18n="supportBtn">Soporte / Contacto</span>
+      </a>
+      <a href="https://ko-fi.com/pevalcar" target="_blank" class="support-btn kofi-btn">
+        <span class="btn-icon">☕</span>
+        <span data-i18n="kofiBtn">Apóyame en Ko-fi</span>
+      </a>
+      <a href="https://github.com/Pevalcar" target="_blank" class="github-link">
+        <span>⭐ GitHub</span>
+      </a>
+      <p class="version">Versión 1.0.2</p>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -2,10 +2,6 @@
 
 ![Presentación de la extensión](presentacion.png)
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-geomemsolun-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/geomemsolun)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://github.com/Pevalcar/zenith-wakfu-stats-calculator/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/v/release/Pevalcar/zenith-wakfu-stats-calculator?style=for-the-badge)](https://github.com/Pevalcar/zenith-wakfu-stats-calculator/releases)
-
 Extensión para Chrome que calcula automáticamente las estadísticas de **Dominio** y **Resistencia** en las tarjetas de equipamiento del [Zenith Wakfu Builder](https://www.zenithwakfu.com/builder).
 
 ## 🎯 Características
@@ -46,16 +42,7 @@ La extensión detecta automáticamente las estadísticas en cada tarjeta de equi
 2. Haz clic en "Añadir a Chrome"
 3. Confirma la instalación
 
-### Desde Opera Add-ons (Próximamente)
-![Coming Soon](https://img.shields.io/badge/Opera%20Add--ons-Coming%20Soon-orange)
-
-**Instalación manual mientras se aprueba:**
-1. Descarga la última versión desde [Releases](https://github.com/Pevalcar/zenith-wakfu-stats-calculator/releases/latest)
-2. Descomprime el archivo `zenith-wakfu-stats.zip`
-3. Abre Opera y ve a `opera://extensions`
-4. Activa el **"Modo de desarrollador"** (esquina superior derecha)
-5. Haz clic en **"Cargar extensión descomprimida"**
-6. Selecciona la carpeta descomprimida que contiene la extensión
+### Instalación manual (Desarrollo)
 
 ### Instalación manual (Desarrollo)
 
