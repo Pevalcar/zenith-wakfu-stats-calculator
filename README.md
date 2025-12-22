@@ -108,7 +108,7 @@ Si encuentras algún problema o tienes sugerencias:
 
 ## 📝 Changelog
 
-### v1.0.0 (2025-12-22)
+### v1.0.1 (2025-12-22)
 - 🎉 Versión inicial
 - ✅ Suma automática de dominios con multiplicadores
 - ✅ Suma automática de resistencias con multiplicadores

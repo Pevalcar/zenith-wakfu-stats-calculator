@@ -278,7 +278,7 @@ Para actualizar la extensión:
 
 Antes de publicar, verifica:
 
-- [ ] `manifest.json` tiene versión correcta (1.0.0)
+- [ ] `manifest.json` tiene versión correcta (1.0.1)
 - [ ] Iconos en 3 tamaños (16, 48, 128)
 - [ ] 3-5 screenshots de alta calidad
 - [ ] README.md actualizado

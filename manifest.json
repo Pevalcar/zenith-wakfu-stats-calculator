@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "name": "Zenith Wakfu Stats Calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calcula Dominios y Resistencias en Zenith Wakfu Builder con totales claros.",
   "author": "geoememsoluciones@gmail.com",
-  "homepage_url": "https://github.com/Pevalcar/browser-extension",
+  "homepage_url": "https://github.com/Pevalcar/zenith-wakfu-stats-calculator/tree/master",
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
