@@ -104,9 +104,13 @@ TOTAL = 185
 Si encuentras algún problema o tienes sugerencias:
 - **Email**: geoememsoluciones@gmail.com
 - **GitHub**: [Pevalcar](https://github.com/Pevalcar)
-- **Ko-fi**: [Apóyame ☕](https://ko-fi.com/pevalcar)
+- **Buy Me a Coffee**: [Apóyame ☕](https://buymeacoffee.com/geomemsolun)
 
 ## 📝 Changelog
+
+### v1.0.2 (2025-12-22)
+- 💰 Cambio de plataforma de donación: Ko-fi → Buy Me a Coffee (https://buymeacoffee.com/geomemsolun)
+- 📝 Actualización de links de soporte en README y popup
 
 ### v1.0.1 (2025-12-22)
 - 🎉 Versión inicial
@@ -116,7 +120,7 @@ Si encuentras algún problema o tienes sugerencias:
 - ✅ Separación de valores positivos/negativos
 - 🐛 Detección de números negativos
 - 📊 Interfaz profesional con popup informativo
-- 📧 Botones de soporte y Ko-fi
+- 📧 Botones de soporte
 
 ## 📄 Archivos
 
@@ -136,7 +140,7 @@ MIT License - Libre para uso personal y comercial
 Creado y desarrollado por **Pevalcar**
 - GitHub: [Pevalcar](https://github.com/Pevalcar)
 - Email: geoememsoluciones@gmail.com
-- Ko-fi: [Apóyame ☕](https://ko-fi.com/pevalcar)
+- Buy Me a Coffee: [Apóyame ☕](https://buymeacoffee.com/geomemsolun)
 
 ## 📋 Copyright
 
