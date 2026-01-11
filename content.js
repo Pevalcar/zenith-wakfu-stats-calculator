@@ -206,7 +206,7 @@ function sumDomains(stats) {
 
     // Detectar "Dominio/Maîtrise/Mastery [en/with/à/sur] X elementos" o variantes
     const elementMatch = statType.match(
-      /(?:dominio|ma[îi]trise|mastery|d[eé]g[aâ]ts?|damage)\s+(?:en|in|with|à|sur)?\s*(\d+)\s*elements?/i
+      /(?:dominio|ma[îi]trise|mastery|d[eé]g[aâ]ts?|damage)\s+(?:en|in|with|to|à|sur)?\s*(\d+)\s*(?:elementos?|elements?|éléments?)/i
     );
 
     let contribution = 0;
@@ -260,7 +260,7 @@ function sumResistances(stats) {
 
     // Detectar "Resistencia/Résistance [en/in/with/à/sur] X elementos"
     const multiElementMatch = statType.match(
-      /(?:resistencia|r[eé]sistance|resistance)\s+(?:en|in|with|à|sur)?\s*(\d+)\s*elements?/i
+      /(?:resistencia|r[eé]sistance|resistance)\s+(?:en|in|with|to|à|sur)?\s*(\d+)\s*(?:elementos?|elements?|éléments?)/i
     );
     if (multiElementMatch) {
       const numElements = parseInt(multiElementMatch[1], 10);
