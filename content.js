@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2025 Pevalcar
  * @license MIT
  * @version 1.0.0
- * @see https://github.com/Pevalcar/browser-extension
+ * @see https://github.com/Pevalcar/zenith-wakfu-stats-calculator
  */
 
 // Traducciones para las tablas
