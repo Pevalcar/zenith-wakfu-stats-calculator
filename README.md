@@ -121,6 +121,10 @@ Si encuentras algún problema o tienes sugerencias:
 
 ## 📝 Changelog
 
+### v1.0.3
+- 🐛 Corregido: ahora funciona también en zenithwakfu.com (sin www.)
+- 🔧 Añadido match para https://zenithwakfu.com/* en host_permissions y content_scripts
+
 ### v1.0.2 (2025-12-22)
 - 💰 Cambio de plataforma de donación: Ko-fi → Buy Me a Coffee (https://buymeacoffee.com/geomemsolun)
 - 📝 Actualización de links de soporte en README y popup
