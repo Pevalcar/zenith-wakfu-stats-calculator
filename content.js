@@ -7,7 +7,7 @@
  * @author Pevalcar
  * @copyright Copyright (c) 2025 Pevalcar
  * @license MIT
- * @version 1.0.0
+ * @version 1.0.3
  * @see https://github.com/Pevalcar/zenith-wakfu-stats-calculator
  */
 
